@@ -70,7 +70,7 @@ private static final int OPTION_QUIT = 5;
 					ResourceCentre.loanChromebook(chromebookList);
 				} else {
 					System.out.println("Invalid type");
-				}mnhyg
+				}
 
 			} else if (option == OPTION_RETURN) {
 				// Return item
