@@ -14,7 +14,7 @@ public class Item {
 	public String toString() {
 		
 		// Write your codes here
-		return null;
+		return return assetTag + description + dueDate + isAvailable ;
 	}
 	public String getAssetTag() {
 		return assetTag;
